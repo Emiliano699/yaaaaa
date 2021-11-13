@@ -1,1 +1,1 @@
-# yaaaaa
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://www219.sbcdnvideo.com/hls/tysxfu4ydo66j6cdabcbfvyag56g5pu3o4nk6zqtt6gfed7upedfb5mi3aua/index-v1-a1.m3u8
